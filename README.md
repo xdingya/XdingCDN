@@ -1,0 +1,2 @@
+# xding
+jsDelivr CND Xding
